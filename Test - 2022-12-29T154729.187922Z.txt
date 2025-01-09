@@ -1,1 +1,0 @@
-git config --global user.name "TJ Totland"git config --global user.email TJTotland@gmail.com
